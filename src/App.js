@@ -1,3 +1,5 @@
+
+//React chat room
 import React, {useState} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
